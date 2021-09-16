@@ -1,9 +1,9 @@
-import { getAllByPlaceholderText } from '@testing-library/dom';
+// import { getAllByPlaceholderText } from '@testing-library/dom';
 import './index.css';
-const api = {
-  key: "ba60b64762fc6680b6a35ee6c8d2dc47",
-  base: "https://api.openweathermap.org/data/2.5"
-}
+// const api = {
+//   key: "ba60b64762fc6680b6a35ee6c8d2dc47",
+//   base: "https://api.openweathermap.org/data/2.5"
+// }
 function App() {
 
   const dateBuilder = (d) =>{
